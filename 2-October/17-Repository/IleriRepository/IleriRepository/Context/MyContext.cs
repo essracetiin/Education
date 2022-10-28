@@ -6,6 +6,7 @@ namespace IleriRepository.Context
 {
     public class MyContext : DbContext
     {
+
         
         public MyContext(DbContextOptions<MyContext> db) : base(db)
         {

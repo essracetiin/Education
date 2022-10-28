@@ -19,6 +19,7 @@ namespace IleriRepository.UnitOfWork
 
         public void Commit()
         {
+
             _db.SaveChanges();
         }
 

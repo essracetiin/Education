@@ -12,3 +12,17 @@ C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Ent\obj\Debug\net
 C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Ent\obj\Debug\net6.0\KatmanliMimari.Ent.pdb
 C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Ent\obj\Debug\net6.0\KatmanliMimari.Ent.genruntimeconfig.cache
 C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Ent\obj\Debug\net6.0\ref\KatmanliMimari.Ent.dll
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Ent\bin\Debug\net6.0\KatmanliMimari.Ent.deps.json
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Ent\bin\Debug\net6.0\KatmanliMimari.Ent.runtimeconfig.json
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Ent\bin\Debug\net6.0\KatmanliMimari.Ent.dll
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Ent\bin\Debug\net6.0\KatmanliMimari.Ent.pdb
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Ent\obj\Debug\net6.0\KatmanliMimari.Ent.csproj.AssemblyReference.cache
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Ent\obj\Debug\net6.0\KatmanliMimari.Ent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Ent\obj\Debug\net6.0\KatmanliMimari.Ent.AssemblyInfoInputs.cache
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Ent\obj\Debug\net6.0\KatmanliMimari.Ent.AssemblyInfo.cs
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Ent\obj\Debug\net6.0\KatmanliMimari.Ent.csproj.CoreCompileInputs.cache
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Ent\obj\Debug\net6.0\KatmanliMimari.Ent.dll
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Ent\obj\Debug\net6.0\refint\KatmanliMimari.Ent.dll
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Ent\obj\Debug\net6.0\KatmanliMimari.Ent.pdb
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Ent\obj\Debug\net6.0\KatmanliMimari.Ent.genruntimeconfig.cache
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Ent\obj\Debug\net6.0\ref\KatmanliMimari.Ent.dll

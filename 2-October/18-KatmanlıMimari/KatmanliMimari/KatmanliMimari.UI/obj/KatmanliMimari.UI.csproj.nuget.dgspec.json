@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.UI\\KatmanliMimari.UI.csproj": {}
+    "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.UI\\KatmanliMimari.UI.csproj": {}
   },
   "projects": {
-    "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Core\\KatmanliMimari.Core.csproj": {
+    "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Core\\KatmanliMimari.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Core\\KatmanliMimari.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Core\\KatmanliMimari.Core.csproj",
         "projectName": "KatmanliMimari.Core",
-        "projectPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Core\\KatmanliMimari.Core.csproj",
-        "packagesPath": "C:\\Users\\SEM\\.nuget\\packages\\",
-        "outputPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Core\\obj\\",
+        "projectPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Core\\KatmanliMimari.Core.csproj",
+        "packagesPath": "C:\\Users\\Esra Çetin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SEM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Esra Çetin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,18 +26,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Dl\\KatmanliMimari.Dl.csproj": {
-                "projectPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Dl\\KatmanliMimari.Dl.csproj"
+              "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Dl\\KatmanliMimari.Dl.csproj": {
+                "projectPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Dl\\KatmanliMimari.Dl.csproj"
               },
-              "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Ent\\KatmanliMimari.Ent.csproj": {
-                "projectPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Ent\\KatmanliMimari.Ent.csproj"
+              "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Ent\\KatmanliMimari.Ent.csproj": {
+                "projectPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Ent\\KatmanliMimari.Ent.csproj"
               }
             }
           }
@@ -73,8 +72,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -83,24 +81,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Dl\\KatmanliMimari.Dl.csproj": {
+    "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Dl\\KatmanliMimari.Dl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Dl\\KatmanliMimari.Dl.csproj",
+        "projectUniqueName": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Dl\\KatmanliMimari.Dl.csproj",
         "projectName": "KatmanliMimari.Dl",
-        "projectPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Dl\\KatmanliMimari.Dl.csproj",
-        "packagesPath": "C:\\Users\\SEM\\.nuget\\packages\\",
-        "outputPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Dl\\obj\\",
+        "projectPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Dl\\KatmanliMimari.Dl.csproj",
+        "packagesPath": "C:\\Users\\Esra Çetin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Dl\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SEM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Esra Çetin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -109,15 +107,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Ent\\KatmanliMimari.Ent.csproj": {
-                "projectPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Ent\\KatmanliMimari.Ent.csproj"
+              "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Ent\\KatmanliMimari.Ent.csproj": {
+                "projectPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Ent\\KatmanliMimari.Ent.csproj"
               }
             }
           }
@@ -153,8 +150,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -163,24 +159,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.DTO\\KatmanliMimari.DTO.csproj": {
+    "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.DTO\\KatmanliMimari.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.DTO\\KatmanliMimari.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.DTO\\KatmanliMimari.DTO.csproj",
         "projectName": "KatmanliMimari.DTO",
-        "projectPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.DTO\\KatmanliMimari.DTO.csproj",
-        "packagesPath": "C:\\Users\\SEM\\.nuget\\packages\\",
-        "outputPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.DTO\\obj\\",
+        "projectPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.DTO\\KatmanliMimari.DTO.csproj",
+        "packagesPath": "C:\\Users\\Esra Çetin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SEM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Esra Çetin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -189,7 +185,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -229,8 +224,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -239,24 +233,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Ent\\KatmanliMimari.Ent.csproj": {
+    "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Ent\\KatmanliMimari.Ent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Ent\\KatmanliMimari.Ent.csproj",
+        "projectUniqueName": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Ent\\KatmanliMimari.Ent.csproj",
         "projectName": "KatmanliMimari.Ent",
-        "projectPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Ent\\KatmanliMimari.Ent.csproj",
-        "packagesPath": "C:\\Users\\SEM\\.nuget\\packages\\",
-        "outputPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Ent\\obj\\",
+        "projectPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Ent\\KatmanliMimari.Ent.csproj",
+        "packagesPath": "C:\\Users\\Esra Çetin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Ent\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SEM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Esra Çetin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -265,7 +259,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -305,8 +298,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -315,24 +307,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Rep\\KatmanliMimari.Rep.csproj": {
+    "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Rep\\KatmanliMimari.Rep.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Rep\\KatmanliMimari.Rep.csproj",
+        "projectUniqueName": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Rep\\KatmanliMimari.Rep.csproj",
         "projectName": "KatmanliMimari.Rep",
-        "projectPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Rep\\KatmanliMimari.Rep.csproj",
-        "packagesPath": "C:\\Users\\SEM\\.nuget\\packages\\",
-        "outputPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Rep\\obj\\",
+        "projectPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Rep\\KatmanliMimari.Rep.csproj",
+        "packagesPath": "C:\\Users\\Esra Çetin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Rep\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SEM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Esra Çetin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -341,18 +333,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Core\\KatmanliMimari.Core.csproj": {
-                "projectPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Core\\KatmanliMimari.Core.csproj"
+              "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Core\\KatmanliMimari.Core.csproj": {
+                "projectPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Core\\KatmanliMimari.Core.csproj"
               },
-              "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Ent\\KatmanliMimari.Ent.csproj": {
-                "projectPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Ent\\KatmanliMimari.Ent.csproj"
+              "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Ent\\KatmanliMimari.Ent.csproj": {
+                "projectPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Ent\\KatmanliMimari.Ent.csproj"
               }
             }
           }
@@ -388,8 +379,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -398,24 +388,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.UI\\KatmanliMimari.UI.csproj": {
+    "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.UI\\KatmanliMimari.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.UI\\KatmanliMimari.UI.csproj",
+        "projectUniqueName": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.UI\\KatmanliMimari.UI.csproj",
         "projectName": "KatmanliMimari.UI",
-        "projectPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.UI\\KatmanliMimari.UI.csproj",
-        "packagesPath": "C:\\Users\\SEM\\.nuget\\packages\\",
-        "outputPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.UI\\obj\\",
+        "projectPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.UI\\KatmanliMimari.UI.csproj",
+        "packagesPath": "C:\\Users\\Esra Çetin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SEM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Esra Çetin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -424,30 +414,29 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Core\\KatmanliMimari.Core.csproj": {
-                "projectPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Core\\KatmanliMimari.Core.csproj"
+              "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Core\\KatmanliMimari.Core.csproj": {
+                "projectPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Core\\KatmanliMimari.Core.csproj"
               },
-              "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Dl\\KatmanliMimari.Dl.csproj": {
-                "projectPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Dl\\KatmanliMimari.Dl.csproj"
+              "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Dl\\KatmanliMimari.Dl.csproj": {
+                "projectPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Dl\\KatmanliMimari.Dl.csproj"
               },
-              "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.DTO\\KatmanliMimari.DTO.csproj": {
-                "projectPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.DTO\\KatmanliMimari.DTO.csproj"
+              "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.DTO\\KatmanliMimari.DTO.csproj": {
+                "projectPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.DTO\\KatmanliMimari.DTO.csproj"
               },
-              "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Ent\\KatmanliMimari.Ent.csproj": {
-                "projectPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Ent\\KatmanliMimari.Ent.csproj"
+              "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Ent\\KatmanliMimari.Ent.csproj": {
+                "projectPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Ent\\KatmanliMimari.Ent.csproj"
               },
-              "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Rep\\KatmanliMimari.Rep.csproj": {
-                "projectPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Rep\\KatmanliMimari.Rep.csproj"
+              "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Rep\\KatmanliMimari.Rep.csproj": {
+                "projectPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Rep\\KatmanliMimari.Rep.csproj"
               },
-              "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Uow\\KatmanliMimari.Uow.csproj": {
-                "projectPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Uow\\KatmanliMimari.Uow.csproj"
+              "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Uow\\KatmanliMimari.Uow.csproj": {
+                "projectPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Uow\\KatmanliMimari.Uow.csproj"
               }
             }
           }
@@ -487,8 +476,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -500,24 +488,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Uow\\KatmanliMimari.Uow.csproj": {
+    "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Uow\\KatmanliMimari.Uow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Uow\\KatmanliMimari.Uow.csproj",
+        "projectUniqueName": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Uow\\KatmanliMimari.Uow.csproj",
         "projectName": "KatmanliMimari.Uow",
-        "projectPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Uow\\KatmanliMimari.Uow.csproj",
-        "packagesPath": "C:\\Users\\SEM\\.nuget\\packages\\",
-        "outputPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Uow\\obj\\",
+        "projectPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Uow\\KatmanliMimari.Uow.csproj",
+        "packagesPath": "C:\\Users\\Esra Çetin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Uow\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SEM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Esra Çetin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -526,15 +514,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Rep\\KatmanliMimari.Rep.csproj": {
-                "projectPath": "C:\\ERP301AKSAM\\18-KatmanliMimari\\KatmanliMimari\\KatmanliMimari.Rep\\KatmanliMimari.Rep.csproj"
+              "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Rep\\KatmanliMimari.Rep.csproj": {
+                "projectPath": "C:\\Users\\Esra Çetin\\Documents\\GitHub\\Education\\2-October\\18-KatmanlıMimari\\KatmanliMimari\\KatmanliMimari.Rep\\KatmanliMimari.Rep.csproj"
               }
             }
           }
@@ -570,8 +557,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -580,7 +566,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

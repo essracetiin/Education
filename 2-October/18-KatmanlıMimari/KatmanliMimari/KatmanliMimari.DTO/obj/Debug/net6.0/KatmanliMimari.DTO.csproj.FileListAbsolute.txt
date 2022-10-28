@@ -12,3 +12,17 @@ C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.DTO\obj\Debug\net
 C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.DTO\obj\Debug\net6.0\KatmanliMimari.DTO.pdb
 C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.DTO\obj\Debug\net6.0\KatmanliMimari.DTO.genruntimeconfig.cache
 C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.DTO\obj\Debug\net6.0\ref\KatmanliMimari.DTO.dll
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.DTO\bin\Debug\net6.0\KatmanliMimari.DTO.deps.json
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.DTO\bin\Debug\net6.0\KatmanliMimari.DTO.runtimeconfig.json
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.DTO\bin\Debug\net6.0\KatmanliMimari.DTO.dll
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.DTO\bin\Debug\net6.0\KatmanliMimari.DTO.pdb
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.DTO\obj\Debug\net6.0\KatmanliMimari.DTO.csproj.AssemblyReference.cache
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.DTO\obj\Debug\net6.0\KatmanliMimari.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.DTO\obj\Debug\net6.0\KatmanliMimari.DTO.AssemblyInfoInputs.cache
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.DTO\obj\Debug\net6.0\KatmanliMimari.DTO.AssemblyInfo.cs
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.DTO\obj\Debug\net6.0\KatmanliMimari.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.DTO\obj\Debug\net6.0\KatmanliMimari.DTO.dll
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.DTO\obj\Debug\net6.0\refint\KatmanliMimari.DTO.dll
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.DTO\obj\Debug\net6.0\KatmanliMimari.DTO.pdb
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.DTO\obj\Debug\net6.0\KatmanliMimari.DTO.genruntimeconfig.cache
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.DTO\obj\Debug\net6.0\ref\KatmanliMimari.DTO.dll

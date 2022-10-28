@@ -21,3 +21,26 @@ C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Uow\obj\Debug\net
 C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Uow\obj\Debug\net6.0\KatmanliMimari.Uow.pdb
 C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Uow\obj\Debug\net6.0\KatmanliMimari.Uow.genruntimeconfig.cache
 C:\ERP301AKSAM\18-KatmanliMimari\KatmanliMimari\KatmanliMimari.Uow\obj\Debug\net6.0\ref\KatmanliMimari.Uow.dll
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Uow\bin\Debug\net6.0\KatmanliMimari.Uow.deps.json
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Uow\bin\Debug\net6.0\KatmanliMimari.Uow.runtimeconfig.json
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Uow\bin\Debug\net6.0\KatmanliMimari.Uow.dll
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Uow\bin\Debug\net6.0\KatmanliMimari.Uow.pdb
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Uow\bin\Debug\net6.0\KatmanliMimari.Core.dll
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Uow\bin\Debug\net6.0\KatmanliMimari.Dl.dll
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Uow\bin\Debug\net6.0\KatmanliMimari.Ent.dll
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Uow\bin\Debug\net6.0\KatmanliMimari.Rep.dll
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Uow\bin\Debug\net6.0\KatmanliMimari.Rep.pdb
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Uow\bin\Debug\net6.0\KatmanliMimari.Core.pdb
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Uow\bin\Debug\net6.0\KatmanliMimari.Dl.pdb
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Uow\bin\Debug\net6.0\KatmanliMimari.Ent.pdb
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Uow\obj\Debug\net6.0\KatmanliMimari.Uow.csproj.AssemblyReference.cache
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Uow\obj\Debug\net6.0\KatmanliMimari.Uow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Uow\obj\Debug\net6.0\KatmanliMimari.Uow.AssemblyInfoInputs.cache
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Uow\obj\Debug\net6.0\KatmanliMimari.Uow.AssemblyInfo.cs
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Uow\obj\Debug\net6.0\KatmanliMimari.Uow.csproj.CoreCompileInputs.cache
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Uow\obj\Debug\net6.0\KatmanliMimari.Uow.csproj.CopyComplete
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Uow\obj\Debug\net6.0\KatmanliMimari.Uow.dll
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Uow\obj\Debug\net6.0\refint\KatmanliMimari.Uow.dll
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Uow\obj\Debug\net6.0\KatmanliMimari.Uow.pdb
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Uow\obj\Debug\net6.0\KatmanliMimari.Uow.genruntimeconfig.cache
+C:\Users\Esra Çetin\Documents\GitHub\Education\2-October\18-KatmanlıMimari\KatmanliMimari\KatmanliMimari.Uow\obj\Debug\net6.0\ref\KatmanliMimari.Uow.dll
